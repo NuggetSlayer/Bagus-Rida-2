@@ -343,24 +343,24 @@ a {
 }
 
 .story-container h1 {
-    color: #fff;
+    color: #393939;
     font-weight: normal;
     font-family: 'Satisfy';
 }
 
 .story-container p {
-    color: #fff;
+    color: #393939;
     margin-bottom: 20px;
 }
 
 .story {
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #393939;
     padding: 0 0 10px 0;
     margin-top: 30px;
 }
 
 .story h1 {
-    color: #fff;
+    color: #393939;
     font-weight: normal;
     font-size: 25px;
     font-family: 'Libre Baskerville';
@@ -368,13 +368,13 @@ a {
 }
 
 .story h3 {
-    color: #fff;
+    color: #393939;
     font-size: 18px;
     margin-bottom: 10px;
 }
 
 .story p {
-    color: #fff;
+    color: #393939;
 }
 
 
@@ -411,19 +411,19 @@ a {
 
 
 .gift-card-container i {
-    color: #fff;
+    color: #393939;
     font-size: 40px;
 }
 
 .gift-card-container h1 {
-    color: #fff;
+    color: #393939;
     font-family: 'Satisfy';
 }
 
 .gift-card-container p {
     text-align: center;
     margin-bottom: 20px;
-    color: #fff;
+    color: #393939;
     font-size: 14px;
 }
 
@@ -431,7 +431,7 @@ a {
     font-size: 14px;
     font-weight: normal;
     margin-bottom: 15px;
-    color: #fff;
+    color: #393939;
 
 }
 
@@ -460,7 +460,7 @@ a {
     box-shadow: 0px 0px 4px 0px #393939;
     /* backdrop-filter: blur(8px); */
     border-radius: 15px;
-    color: #fff;
+    color: #393939;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -468,7 +468,7 @@ a {
 }
 
 .gift-card p {
-    color: #fff;
+    color: #393939;
     text-align: left;
     margin-bottom: 10px;
 }
@@ -498,6 +498,7 @@ a {
     visibility: hidden;
     height: 0;
 }
+
 
 #toggleMusicButton {
     position: fixed;
