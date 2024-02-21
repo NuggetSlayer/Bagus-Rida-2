@@ -351,7 +351,9 @@ a {
 .story-container p {
     color: #393939;
     margin-bottom: 20px;
+    font-family: 'Satisfy';
 }
+
 
 .story {
     border-bottom: 1px solid #393939;
@@ -375,6 +377,7 @@ a {
 
 .story p {
     color: #393939;
+    font-family: "Quicksand";
 }
 
 
@@ -475,6 +478,7 @@ a {
 
 .gift-card p:nth-child(1) {
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .account-container {
